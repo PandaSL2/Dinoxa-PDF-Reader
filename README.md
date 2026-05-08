@@ -31,6 +31,6 @@
 
 ---
 
-*Dinoxa is free for everyone @ Theekshana Dinujaya.*
+*"Dinoxa PDF Reader — Provided free for the community by Theekshana Dinujaya." © 2026 Theekshana Dinujaya. All rights reserved.*
 
 
