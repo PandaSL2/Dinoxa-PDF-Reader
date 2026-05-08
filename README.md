@@ -31,6 +31,6 @@
 
 ---
 
-*Dinoxa is free for everyone but is not Open Source. All rights reserved.*
+*Dinoxa is free for everyone @ Theekshana Dinujaya.*
 
 
