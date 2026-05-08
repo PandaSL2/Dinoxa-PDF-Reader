@@ -4,7 +4,6 @@
 
 ### 📥 [Download Latest Setup.exe](https://drive.google.com/file/d/1nY5PjLDTgyPduoaL8gVC7BY_cxwYY5rp/view?usp=sharing)
 
-
 ---
 
 ### ✨ Key Features
@@ -31,5 +30,11 @@
 
 ---
 
+### 📝 Notes for Testers (v1.0.0 Beta)
+*   **Annotation Rendering**: In some high-resolution PDF documents, the browser rendering engine may occasionally require a slight zoom-in/out (or a quick scroll) to perfectly synchronize the highlight layer with the text. This is a known optimization behavior in the current beta and will be fully automated in the next patch.
+*   **Feedback**: As this is a Beta release, your feedback on performance and UI responsiveness is highly valued.
 
+---
 
+**"Dinoxa PDF Reader — Provided free for the community by Theekshana Dinujaya."**  
+*© 2026 Theekshana Dinujaya. All rights reserved.*
