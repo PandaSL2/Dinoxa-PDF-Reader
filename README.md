@@ -30,7 +30,7 @@
 
 ## 🚀 How to Test
 
-1. Download the **`Dinoxa PDF Reader_Setup_1.0.0.exe`** from the link above.
+1. Download the **`Dinoxa PDF Reader_Setup_1.0.2.exe`** from the link above.
 2. Run the installer on your Windows machine.
 3. Launch **Dinoxa PDF Reader** from your desktop or start menu.
 4. Drag and drop any PDF to experience premium rendering, annotations, and AI-powered tools.
