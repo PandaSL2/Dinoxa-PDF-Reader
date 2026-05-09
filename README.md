@@ -1,4 +1,4 @@
-# 🚀 Dinoxa PDF Reader & Editor (v1.0.0)
+# 🚀 Dinoxa PDF Reader & Editor (v1.0.2)
 
 **Dinoxa** is a high-performance, Adobe-style desktop PDF workstation designed for speed, beauty, and intelligent document management. Built with a **Privacy-First** architecture, Dinoxa handles everything from multi-tab research to AI-powered document analysis directly on your machine with speed, stability, and modern design.
 
