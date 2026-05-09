@@ -16,7 +16,7 @@
 *   **💾 Session Persistence**: Automatically resumes your reading exactly where you left off. The "Resume Reading" welcome screen keeps your most important documents one click away.
 
 ### 🛡️ Security & Privacy
-*   **Full Source Protection**: The application is hardened against code inspection and modification.
+*   **Full User Protection**: The application is hardened to protect user data, privacy, and document security, ensuring a safe and secure PDF reading experience on Windows.
 *   **Offline-First**: Your documents stay on your machine. No cloud-upload required for core reading and annotation features.
 *   **Safe Execution**: Built with strict web-security protocols and sandboxed environment.
 
