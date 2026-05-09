@@ -2,7 +2,7 @@
 
 **Dinoxa** is a high-performance, Adobe-style desktop PDF workstation designed for speed, beauty, and intelligent document management. Built with a **Privacy-First** architecture, Dinoxa handles everything from multi-tab research to AI-powered document analysis directly on your machine with speed, stability, and modern design.
 
-### 📥 [Download Latest Setup.exe](https://drive.google.com/file/d/1V7Q1ueyhSmsvQHs6ldSXB7XAamPhzHNx/view?usp=sharing)
+### 📥 [Download Latest Setup.exe](https://drive.google.com/file/d/1vuVO2NzndRUdn3XWYd70TF1jrAy-W3VH/view?usp=sharing)
 
 ---
 
