@@ -19,11 +19,9 @@
 
 ### 🛡️ Security & Privacy
 
-* **Full User Protection**: Designed with advanced privacy and security measures to safeguard user data, documents, and application integrity for a secure PDF reading experience on Windows.
-
+* **Full User Protection**: Protects user privacy and sensitive PDF documents with secure local storage and privacy-focused design.
 * **Offline-First**: Your documents remain on your device. No cloud upload is required for essential reading, annotation, and management features.
-
-* **Secure Environment**: Built with strong security practices and an isolated runtime environment to ensure safe and reliable document handling.
+* **Secure Application Architecture**: Built with hardened security practices and an isolated runtime environment to ensure stable and tamper-resistant operation.
 
 ---
 
