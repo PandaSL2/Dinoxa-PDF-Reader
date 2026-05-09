@@ -40,7 +40,6 @@
 ## 📝 Notes for Testers (v1.0.0 Beta)
 
 * **Annotation Rendering**: In some high-resolution PDF documents, the rendering engine may occasionally require a quick zoom adjustment or slight scroll to perfectly synchronize annotation layers with text. This optimization behavior is already being improved for the next patch update.
-* **Cloud Sync Beta**: Secure Sync is currently in beta optimization mode. Synchronization speed may vary depending on internet connectivity and document size.
 * **Feedback Welcome**: Performance feedback, UI suggestions, and bug reports are highly appreciated during this beta stage.
 
 ---
