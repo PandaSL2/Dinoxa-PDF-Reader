@@ -15,10 +15,15 @@
 *   **📈 Advanced Rendering Engine**: Crystal-clear PDF rendering with a percentage-based zoom engine (up to 500%) and hardware-accelerated "Viewport Jiggle" technology for instant repaints.
 *   **💾 Session Persistence**: Automatically resumes your reading exactly where you left off. The "Resume Reading" welcome screen keeps your most important documents one click away.
 
+---
+
 ### 🛡️ Security & Privacy
-*   **Full User Protection**: The application is hardened to protect user data, privacy, and document security, ensuring a safe and secure PDF reading experience on Windows.
-*   **Offline-First**: Your documents stay on your machine. No cloud-upload required for core reading and annotation features.
-*   **Safe Execution**: Built with strict web-security protocols and sandboxed environment.
+
+* **Full User Protection**: Designed with advanced privacy and security measures to safeguard user data, documents, and application integrity for a secure PDF reading experience on Windows.
+
+* **Offline-First**: Your documents remain on your device. No cloud upload is required for essential reading, annotation, and management features.
+
+* **Secure Environment**: Built with strong security practices and an isolated runtime environment to ensure safe and reliable document handling.
 
 ---
 
